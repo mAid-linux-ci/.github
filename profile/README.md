@@ -1,6 +1,6 @@
 # About
 
-Often enough it happened in the past that packages in the AUR broke (for various reasons). When that happens a mAid build will fail until the package maintainer fixed his/her package (which can take days, weeks and yes not unlikely even months).
+Often enough it happened in the past that packages in the AUR broke (for various reasons). When that happens a [mAid](https://maid.binbash.rocks) build will fail until the package maintainer fixed his/her package (which can take days, weeks and yes not unlikely even months).
 
 Besides that it is needed sometimes to mod an AUR (or official) package to make it fully working in mAid.
 
